@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "5ec5623e83e57eb506d94e11"
+  },
+  "Name": "Design patterns",
+  "Price": "54.93",
+  "Category": "Computers",
+  "Author": "Ralph Jonhson"
+}]
